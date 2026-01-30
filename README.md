@@ -99,7 +99,7 @@ If you want to reach out to me about anything, just ping me!
   <a href="mailto:casamarosebas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/sebastian-matey-45997b385/" target="_blank">
+  <a href="https://www.linkedin.com/in/smatey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
